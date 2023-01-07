@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98.44" height="98.44" viewBox="0 0 98.44 98.44">
+  <g id="Group_529" data-name="Group 529" transform="translate(0 0)">
+    <g id="Group_528" data-name="Group 528">
+      <g id="Group_527" data-name="Group 527" transform="translate(0.526 0.503)">
+        <g id="Group_523" data-name="Group 523">
+          <g id="Group_522" data-name="Group 522">
+            <path id="Path_643" data-name="Path 643" d="M1168.115,2173.263c-.64-.025-10.032,1.479-14.162,1.352l-.419-.015a48.87,48.87,0,0,1-46.743-49.747,48.663,48.663,0,0,1,50.561-47.5c.319.013.636.029.958.047a48.649,48.649,0,0,1,31.957,82.548C1187.915,2162.355,1169.434,2173.315,1168.115,2173.263Z" transform="translate(-1106.777 -2077.314)" fill="#18b6b9"/>
+          </g>
+        </g>
+        <g id="Group_525" data-name="Group 525" transform="translate(2.71 2.687)" opacity="0.5">
+          <g id="Group_524" data-name="Group 524">
+            <path id="Path_644" data-name="Path 644" d="M1160.7,2084.351a45.678,45.678,0,0,0-48.359,44.545,45.2,45.2,0,0,0,5.59,22.853,45.588,45.588,0,0,1,40.514-71.086,45.76,45.76,0,0,1,37.364,23.766A45.668,45.668,0,0,0,1160.7,2084.351Z" transform="translate(-1110.074 -2080.583)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_526" data-name="Group 526" transform="translate(8.972 20.174)" opacity="0.3">
+          <path id="Path_645" data-name="Path 645" d="M1192.226,2101.854a45.53,45.53,0,0,1-1.014,62.35c-3.379,3.486-19.935,12.167-22.754,12.8a45.65,45.65,0,0,1-50.766-23.933c3.887,4.315,24.627,25.384,60.2,5.52C1209.942,2140.7,1194.052,2105.409,1192.226,2101.854Z" transform="translate(-1117.692 -2101.854)" fill="#102770"/>
+        </g>
+      </g>
+      <path id="Path_646" data-name="Path 646" d="M1153.425,2175.1a49.219,49.219,0,1,1,51.115-47.249A49.276,49.276,0,0,1,1153.425,2175.1Zm3.716-94.534a45.388,45.388,0,1,0,43.57,47.135A45.439,45.439,0,0,0,1157.141,2080.569Z" transform="translate(-1106.138 -2076.702)" fill="#371a45"/>
+    </g>
+    <text id="_3_" data-name="3%" transform="translate(24.627 58.739)" fill="#fff" font-size="42" font-family="Nunito-Black, Nunito" font-weight="800"><tspan x="0" y="0">3</tspan><tspan y="0" font-size="27" font-family="Nunito-ExtraBold, Nunito">%</tspan></text>
+  </g>
+</svg>
